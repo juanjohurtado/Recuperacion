@@ -30,7 +30,7 @@ El sitio web consta de las siguientes secciones:
 
 Para una explicación detallada del código y las decisiones de diseño, he creado un video de 3 minutos:
 
-[Ver explicación del código en YouTube](https://www.youtube.com/tu-enlace-aqui)
+[Ver explicación del código en YouTube]([https://www.youtube.com/tu-enlace-aqui](https://youtu.be/XAYCfVTOPqo?feature=shared))
 
 ## Instrucciones de Implementación
 
